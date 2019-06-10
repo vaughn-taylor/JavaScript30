@@ -2,7 +2,7 @@
 
 # MODIFICATION NOTES
 
-In order to run this on a server I changed the project folder names to a more web-friendly naming scheme. Also, I added an index.php to the top level which will display all of the projects. When you're in the list view, right-click a project file (eg. index-START.html) and open it in a new tab. Otherwise, clicking the file will attempt to download the file.
+In order to run this on a server I changed the project folder names to a more web-friendly naming scheme. Also, I added an index.php to the top level which will display all of the projects.
 
 Thanks to Wes Bos for this awesome tutorial!
 
