@@ -3,3 +3,6 @@ node_modules/
 *.log
 haters/
 .idea/
+yarn.lock
+webpack.mix.js
+package.json
